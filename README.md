@@ -1,4 +1,4 @@
-![Screenshot 2025-02-27 143851](https://github.com/user-attachments/assets/1633bde3-2ca4-460c-a468-2db90b4aa767)# Name:ALAN ZION H
+# Name:ALAN ZION H
 # REG NO:212223240004
 
 # EX 1-Led Control using Arduino
