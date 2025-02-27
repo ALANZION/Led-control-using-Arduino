@@ -1,5 +1,5 @@
-# Name:ALAN ZION H
-# REG NO:212223240004
+### Name:ALAN ZION H
+### REG NO:212223240004
 
 # EX 1-Led Control using Arduino
 
@@ -74,3 +74,5 @@ Weighing Machines </br>
 
 
 ## RESULT
+Designed and Implemented a system for LED control using an Arduino microcontroller and a push button.
+
