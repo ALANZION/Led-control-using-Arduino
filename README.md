@@ -1,4 +1,7 @@
-# Led-control-using-Arduino
+# Name:ALAN ZION H
+# REG NO:212223240004
+
+# EX 1-Led Control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
