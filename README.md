@@ -1,4 +1,4 @@
-# Name:ALAN ZION H
+![Screenshot 2025-02-27 143851](https://github.com/user-attachments/assets/1633bde3-2ca4-460c-a468-2db90b4aa767)# Name:ALAN ZION H
 # REG NO:212223240004
 
 # EX 1-Led Control using Arduino
@@ -67,7 +67,10 @@ Weighing Machines </br>
 ![Screenshot (168)](https://github.com/user-attachments/assets/2b9d5d18-fa48-414d-8038-88e6f66d2433)
 
 ## OUTPUT
-![Screenshot 2025-02-27 143851](https://github.com/user-attachments/assets/a273c1f4-01f2-40ce-902d-d0ce6d52f4d6)
+![Screenshot 2025-02-27 143851](https://github.com/user-attachments/assets/d412f301-372d-4a32-b5a2-7b6152758102)
+
+
 ![Screenshot 2025-02-27 143934](https://github.com/user-attachments/assets/a7b64bd7-61b3-46fa-b508-b4ac6be6d1a7)
+
 
 ## RESULT
