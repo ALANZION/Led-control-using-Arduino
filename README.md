@@ -68,10 +68,10 @@ Weighing Machines </br>
 
 
 ## OUTPUT
-## LED ON:
+## LED OFF:
 ![Screenshot 2025-02-27 143851](https://github.com/user-attachments/assets/d412f301-372d-4a32-b5a2-7b6152758102)
 
-## LED OFF:
+## LED ON:
 
 ![Screenshot 2025-02-27 143934](https://github.com/user-attachments/assets/a7b64bd7-61b3-46fa-b508-b4ac6be6d1a7)
 
